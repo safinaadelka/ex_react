@@ -1,0 +1,32 @@
+.banner_text{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 32px;
+    font-weight: 200;
+    color: white;
+}
+.button{
+    background-color: #735184;
+    font-size: 24px;
+    font-weight: 100;
+    padding: 35px 45px ;
+    color: white;
+    font-family: 'Montserrat Alternates', sans-serif;
+    border-radius: 20px;
+}
+.banner_content{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    justify-content: center;
+    align-items: center;
+}
+.banner{
+    background-image: url(../../../public/banner/banner_foto.png);
+    height: 709px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner_logo{
+    width: 666px;
+}

@@ -1,0 +1,43 @@
+h1 {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 55px;
+}
+.price {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 30px;
+}
+.text {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+}
+.foto {
+  height: 600px;
+  width: 515px;
+}
+.price {
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+}
+.info {
+  display: flex;
+  max-width: 800px;
+  flex-direction: column;
+  gap: 35px;
+  justify-content: center;
+  align-items: start;
+}
+.card_page {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 0;
+}
+.violet {
+  text-transform: uppercase;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 25px;
+  padding: 15px 35px;
+  background: rgba(115, 81, 132, 1);
+  color: white;
+}

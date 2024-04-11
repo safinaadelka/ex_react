@@ -1,0 +1,23 @@
+.accordion-item{
+    max-width: 800px;
+
+    background-color: rgb(191, 175, 235);
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.accordion-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    font-size: 25px;
+}
+.accordion-cont{
+    padding: 30px ;
+    background-color: rgb(231, 226, 243);
+    border-radius: 0 0 5px 5px;
+    font-size: 18px;
+}
+.accordion{
+    margin: 20px 0;
+}

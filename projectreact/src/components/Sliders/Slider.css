@@ -1,0 +1,22 @@
+.slider{
+    padding: 40px 0;
+    margin: 40px 0;
+}
+.slider-place{
+    max-width: 400px;
+
+}
+.slide-img{
+    /* max-width: 100%; */
+    width: 500px;
+    height: 600px;
+    object-fit: cover;
+}
+.sliderr{
+    /* max-width: 100%; */
+    width: 200px;
+    height: 600px;
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+}
